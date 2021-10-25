@@ -7,7 +7,7 @@ CLS 57 proceedings
 ### Nonce words with corresponding orthographic representations
 
 | IPA           | Orthography (Q1)  | Orthography (Q2)  |
-| ------------- | ----------------- | ----------------- |
+| :-----------: | :---------------: | :---------------: |
 | [ke(e)pe]     | kebe              | keebe             |
 | [kø(ø)pe]     | köbe              | köbe              |
 | [kø(ø)te]     | köde              | kööde             |
