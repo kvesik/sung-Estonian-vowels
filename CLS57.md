@@ -48,9 +48,9 @@ CLS 57 proceedings
   mine \_\_\_\_\_ temɑkɑ  
   "Go \_\_\_\_\_ with him/her."  
   ![F3 Bb3 C4 C4 D4 E4 F4](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase4melody.png)
-  5. Vesi oli {\_\_\_\_\_ ja sinine.  
+  5. Vesi oli \_\_\_\_\_ ja sinine.  
   vesi oli \_\_\_\_\_ jɑ sininine  
-  "The water was \_\_\_\_\_ and blue."
+  "The water was \_\_\_\_\_ and blue."  
   ![F4 Db4 C4 Db4 C4 C4 Db4 C4 Bb3 Ab3](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase5melody.png)
   6. Tähe \_\_\_\_\_ sära oli imeline.  
   tæhe \_\_\_\_\_ særɑ oli imeline  
