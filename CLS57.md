@@ -35,25 +35,25 @@ CLS 57 proceedings
 (1) Esimene \_\_\_\_\_ tuli koju.  
 esimene \_\_\_\_\_ tuli koju  
 "The first \_\_\_\_\_ came home."  
-TODO insert image
+![G3 A3 B3 B3 C4 C4 E4 D4 B3 B3](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase1melody.png)
 (2) Tema \_\_\_\_\_ pole roheline.  
 temɑ \_\_\_\_\_ pole roheline  
 "His/her \_\_\_\_\_ isn't green."  
-TODO insert image
+![G4 E4 C4 C4 D4 F4 E4 D4 C4 C4](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase2melody.png)
 (3) Tule \_\_\_\_\_ minuga.  
 tule \_\_\_\_\_ minukɑ  
 "Come \_\_\_\_\_ with me."  
-TODO insert image
+![G3 G3 C4 C4 E4 E4 D4](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase3melody.png)
 (4) Mine \_\_\_\_\_ temaga.  
 mine \_\_\_\_\_ temɑkɑ  
 "Go \_\_\_\_\_ with him/her."  
-TODO insert image
+![F3 Bb3 C4 C4 D4 E4 F4](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase4melody.png)
 (5) Vesi oli {\_\_\_\_\_ ja sinine.  
 vesi oli \_\_\_\_\_ jɑ sininine  
-"The water was \_\_\_\_\_ and blue.""  
-TODO insert image
+"The water was \_\_\_\_\_ and blue."
+![F4 Db4 C4 Db4 C4 C4 Db4 C4 Bb3 Ab3](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase5melody.png)
 (6) Tähe \_\_\_\_\_ sära oli imeline.  
 tæhe \_\_\_\_\_ særɑ oli imeline  
-"The star's \_\_\_\_\_ shine was wonderful."  
-TODO insert image
+"The star's \_\_\_\_\_ shine was wonderful." 
+![Bb3 Bb3 C4 C4 Bb3 Bb3 C4 C4 D4 E4 F4 F4](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase6melody.png)
 
