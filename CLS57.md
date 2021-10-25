@@ -57,3 +57,6 @@ tæhe \_\_\_\_\_ særɑ oli imeline
 "The star's \_\_\_\_\_ shine was wonderful." 
 ![Bb3 Bb3 C4 C4 Bb3 Bb3 C4 C4 D4 E4 F4 F4](https://github.com/kvesik/sung-Estonian-vowels/blob/main/images/carrierphrase6melody.png)
 
+(1) item 1
+(2) item 2
+
