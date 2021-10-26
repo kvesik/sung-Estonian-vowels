@@ -1,8 +1,6 @@
 # Perception of vowel quantity in sung Estonian vowels
 
-CLS 57 proceedings
-
-## Supplementary materials
+## Supplementary materials - CLS 57 proceedings
 
 ### Nonce words with corresponding orthographic representations
 
