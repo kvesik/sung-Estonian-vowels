@@ -2,7 +2,7 @@
 
 ## Supplementary materials - CLS 57 proceedings
 
-### Nonce words with corresponding orthographic representations
+### A. Nonce words with corresponding orthographic representations
 
 | IPA           | Orthography (Q1)  | Orthography (Q2)  |
 | :-----------: | :---------------: | :---------------: |
@@ -28,7 +28,7 @@
 | [tɤ(ɤ)ke]     | tõge              | tõõge             |
 
 
-### Carrier phrases with associated melodies
+### B. Carrier phrases with associated melodies
 
   1. Esimene \_\_\_\_\_ tuli koju.  
   esimene \_\_\_\_\_ tuli koju  
