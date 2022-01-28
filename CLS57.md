@@ -1,4 +1,4 @@
-# Perception of vowel quantity in sung Estonian vowels
+# Perception of vowel quantity in sung Estonian
 
 ## Supplementary materials - CLS 57 proceedings
 
